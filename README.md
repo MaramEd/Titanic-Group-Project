@@ -1,4 +1,4 @@
-# Project 1: Surviving The Titanic
+# Surviving The Titanic: Group Project
 
 ## Problem Statement
 To predict the survival rate of the Titanic passengers.
@@ -42,3 +42,7 @@ In this section, a model will be created to predict the survival rate of the Tit
 
 ## Conclusion
 <p style='text-align: justify;'> The features were standardized and split using the train-test-split function. The following models were used: decision trees, random forests, bagging, and support vector machine. However, k-nearest neighbors yielded the best results in terms of predicting the survival rate of the passengers of Titanic, the sinking ship, on Kaggle (0.80382). </p>
+
+### Group Members: 
+Mohammed, Maram, Sara, Saud.
+ 
