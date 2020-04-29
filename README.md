@@ -43,6 +43,12 @@ In this section, a model will be created to predict the survival rate of the Tit
 ## Conclusion
 <p style='text-align: justify;'> The features were standardized and split using the train-test-split function. The following models were used: decision trees, random forests, bagging, and support vector machine. However, k-nearest neighbors yielded the best results in terms of predicting the survival rate of the passengers of Titanic, the sinking ship, on Kaggle (0.80382). </p>
 
+## Kaggle Links:
+- <a href="https://www.kaggle.com/maramedrees/titanic-group-4" target="_blank">Kernal</a>
+
+### Score:
+<img src="Kaggle_score.png" alt="Kaggle Score">
+
 ### Group Members: 
 Maram, Mohammed, Sara, Saud.
  
